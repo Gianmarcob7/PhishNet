@@ -1,3 +1,69 @@
+## PhishNet Antivirus
+PhishNet is a free, user-friendly Linux antivirus application powered by the ClamAV engine that helps protect your system from malware threats. Through its intuitive interface, users can perform virus scans, manage quarantined files, and maintain up-to-date virus definitions without impacting system performance.
+
+## Multiple Scanning Options
+
+System Scan: Complete system-wide virus detection
+Quick Scan: Rapid scanning of essential system areas
+Custom Scan: User-selected files and directories scanning
+
+
+## Scheduled Scanning
+
+Configure automated scans (daily, weekly, or monthly)
+Flexible scheduling for convenient system maintenance
+Background execution to minimize system interference
+
+
+## Real-Time Protection
+
+Automated virus definition updates
+Latest bytecode detection patterns
+Efficient quarantine system for infected files
+
+
+## User-Friendly Interface
+
+Intuitive GUI designed for users of all technical levels
+Clear scan reports and history tracking
+Easy quarantine management
+
+
+
+## Technical Details
+
+Built on ClamAV's lightweight scanning engine
+Optimized for Linux (Ubuntu 20.04+)
+Minimal system resource usage during scans
+Automated database updates for latest virus definitions
+
+## Project Highlights
+
+Free and open-source
+No subscription required
+Comprehensive scanning capabilities
+Automated quarantine system
+Detailed scan reports
+Regular virus definition updates
+
+## Development
+This project was developed as part of a Software Engineering course, focusing on creating a robust, user-friendly antivirus solution that leverages the power of open-source technology while maintaining high performance and reliability.
+Dependencies
+
+## ClamAV engine
+Linux environment (Ubuntu 20.04 recommended)
+
+## Team
+
+- Gianmarco Bonventre
+- Aarshia Hukmani
+- AJ Whitman
+- Julia Pallazola
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # ClamAV
 
 <p align="center">
